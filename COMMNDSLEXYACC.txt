@@ -1,0 +1,4 @@
+yacc -d robot.y
+lex robot.l
+gcc y.tab.c lex.yy.c -ly -ll -o robot
+./robot test.txt
