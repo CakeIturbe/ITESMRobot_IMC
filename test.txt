@@ -1,0 +1,7 @@
+Robot please move 2 blocks ahead
+robot plis turn 90 degrees
+robot porfis move 4 blocks ahead and then move 2 blocks ahead and then turn 270 degrees
+dasdadas
+robot
+move 2 blocks ahead
+robot porfis move 4 blocks ahead and then move 2 blocks ahead and then turn 2 degrees
